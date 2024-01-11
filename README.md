@@ -1,6 +1,9 @@
 # Website-and-External-Storage-Blocker
 This Python script, designed for Windows, provides a dual functionality to enhance system security and control user access:
 
+ ###    ![image](https://github.com/Anirudh-Aravind/Website-and-External-Storage-Blocker/assets/84184475/24f37165-63f6-4da0-aeba-e67292c492cf)
+
+
 ## Website Blocker:
 
 The script allows users to block specific websites by redirecting their URLs to the local machine's IP address.
@@ -49,3 +52,5 @@ Run the web_storage_blocker.py script using Python.
 
 ## Note: 
 ### The effectiveness of website blocking using the hosts file depends on the user's system permissions. The script require elevated privileges to modify the hosts file located at 'C:\Windows\System32\drivers\etc\hosts'
+
+
